@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  OasisStore
+
+  Created by Vanara Leng on 6/26/23.
+  
+*/
+
+"app_name" = "Oasis Store";
+
+"home" = "Home";
+"order" = "Your Order";
+"setting" = "Setting";
+"new_products" = "Products Show";
+"log_out" = "Logout";
+
+"retry" = "Try again";
+"cancel" = "Cancel";
+
+"error_title" = "Error";
+"error_decode" = "Could not decode the response";
+"error_session" = "Your sesion has expired";
+"error_bad_request" = "Bad URL request";
+"error_forbidden" = "You cannot access this URL";
+"error_server_error" = "Something went wrong";
+"error_redirect" = "Response is redirected";
+"error_unknown" = "An error has occured";
+
+"home_section_new" = "New Products";
+"home_section_popular" = "Popular Products";
+
+"detail_add_to_cart_button" = "Add to cart";
+
+// Login
+"login_title" = "Welcome to Oasis Store";
+"login_button" = "Login";
+"login_username" = "Username or email";
+"login_password" = "Password";
+"login_skip" = "Skip";

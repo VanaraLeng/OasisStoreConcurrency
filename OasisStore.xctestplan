@@ -1,0 +1,47 @@
+{
+  "configurations" : [
+    {
+      "id" : "451860F5-042F-47A7-90AC-9BC082D4D210",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:OasisStore.xcodeproj",
+          "identifier" : "302105652A3B596C0006F8C1",
+          "name" : "OasisStore"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:OasisStore.xcodeproj",
+      "identifier" : "302105652A3B596C0006F8C1",
+      "name" : "OasisStore"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:OasisStore.xcodeproj",
+        "identifier" : "302105752A3B596D0006F8C1",
+        "name" : "OasisStoreTests"
+      }
+    },
+    {
+      "enabled" : false,
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:OasisStore.xcodeproj",
+        "identifier" : "3021057F2A3B596D0006F8C1",
+        "name" : "OasisStoreUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

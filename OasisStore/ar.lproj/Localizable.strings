@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  OasisStore
+
+  Created by Vanara Leng on 6/26/23.
+  
+*/
+
+"home" = "بيت";
+"order" = "طلباتك";
+"language" = "لغة";
+"setting" = "جلسة";
+"new_products" = "عرض المنتجات";
+"log_out" = "تسجيل خروج";
+"lanaguage_title" = "اختار اللغة";
+
+"retry" = "حاول ثانية";
+"cancel" = "يلغي";
+
+"error_title" = "خطأ";
+"error_decode" = "لا يمكن فك الاستجابة";
+"error_session" = "انتهت صلاحية جلسة العمل الخاصة بك";
+"error_bad_request" = "طلب URL غير صالح";
+"error_forbidden" = "لا يمكنك الوصول إلى عنوان URL هذا";
+"error_server_error" = "هناك خطأ ما";
+"error_redirect" = "تمت إعادة توجيه الاستجابة";
+"error_unknown" = "حدث خطأ";
+
+"home_section_new" = "منتجات جديدة";
+"home_section_popular" = "المنتجات الشعبية";
+
+"detail_add_to_cart_button" = "أضف إلى السلة";
